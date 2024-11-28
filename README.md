@@ -5,7 +5,7 @@ This is a simple e-commerce application built with Django. It includes models fo
 
 ## Models
 - **Customer**
-    - `name`: The full name of the customer.
+    - `name`: The full names of the customer.
     - `email`: The unique email address of the customer.
 
 - **Order**
